@@ -3,36 +3,42 @@ message: "If you use this software, please cite both the article from preferred-
 authors:
   - family-names: "Ferrer-Paris"
     given-names: "José R."
-    orcid: https://orcid.org/0000-0002-9554-3395
+    orcid: "https://orcid.org/0000-0002-9554-3395"
   - family-names: "Sanchez-Mercado"
     given-names: "Ada"
-    orcid: https://orcid.org/0000-0001-5030-2128
+    orcid: "https://orcid.org/0000-0001-5030-2128"
   - family-names: "Morán"
     given-names: "Lisandro"
-    orcid: https://orcid.org/0000-0001-5346-5205
+    orcid: "https://orcid.org/0000-0001-5346-5205"
 title: "Code for: Interannual and daily activity patterns of mid-sized mammals in Maracaibo Lake Basin, Venezuela"
 version: v1.0
 date-released: 2022-02-22
 license: CC-BY-4.0
 preferred-citation:
   authors:
-    - family-names: Morán
-      given-names: Lisandro
-      orcid: https://orcid.org/0000-0001-5346-5205
-    - family-names: García
-      given-names: Luis
-    - family-names: Ferrerbuz
-      given-names: José D.
-    - family-names: Sánchez
-      given-names: Roxana
+    - family-names: "Morán"
+      given-names: "Lisandro"
+      orcid: "https://orcid.org/0000-0001-5346-5205"
+    - family-names: "García"
+      given-names: "Luis"
+    - family-names: "Ferrerbuz"
+      given-names: "José D."
+    - family-names: "Sánchez"
+      given-names: "Roxana"
     - family-names: "Sanchez-Mercado"
       given-names: "Ada"
-      orcid: https://orcid.org/0000-0001-5030-2128
-    - family-names: Porta
-      given-names: Alberto
-    - family-names: Ferrer-Paris
-      given-names: José R.
-      orcid: https://orcid.org/0000-0002-9554-3395
-  title: Interannual and daily activity patterns of mid-sized mammals in Maracaibo Lake Basin, Venezuela. Therya, 2018, Col. 9 (3): 277-236.
-  doi: 10.12933/therya-18-616
+      orcid: "https://orcid.org/0000-0001-5030-2128"
+    - family-names: "Porta"
+      given-names: "Alberto"
+    - family-names: "Ferrer-Paris"
+      given-names: "José R."
+      orcid: "https://orcid.org/0000-0002-9554-3395"
+  title: "Interannual and daily activity patterns of mid-sized mammals in Maracaibo Lake Basin, Venezuela"
+  journal: "Therya"
+  year: 2018
+  volume: 9
+  issue: 3
+  start: 277
+  end: 236
+  doi: "10.12933/therya-18-616"
   type: article
